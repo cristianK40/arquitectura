@@ -7,9 +7,9 @@ package co.edu.ucatolica.as.controllers;
 
 /**
  *
- * @author NixonD
+ * @author Cristian
  */
-
+//hola mensaje prueba
 import co.edu.ucatolica.as.DAOs.FactoryDao;
 import co.edu.ucatolica.as.DAOs.PersonaMySQLDAO;
 import co.edu.ucatolica.as.DTOs.Persona;
